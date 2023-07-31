@@ -1,0 +1,13 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.http
+*reference_solution
+*hw_reference_solution
+.idea
+.DS_Store
+.vscode
